@@ -1,0 +1,7 @@
+# See https://nodejs.org/en/download for Node.js versions
+node_modules
+build
+dist
+.cache
+.env
+.vite
